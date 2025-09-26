@@ -12,3 +12,5 @@ var cfg = new SimulationConfig(
 
 var world = new World(cfg);
 var sim = new Simulation(world);
+
+Console.Write("test");
