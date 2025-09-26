@@ -7,7 +7,7 @@ var cfg = new SimulationConfig(
     FoodSpawnRate : 2.0,
     FoodEnergy : 5.0,
     FoodSize : 1.0,
-    MutationChance : 0.2
+    MutationChance : 0.20
 );
 
 var world = new World(cfg);
